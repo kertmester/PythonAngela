@@ -1,8 +1,8 @@
-import data
-from data import menu
-from data import resources
-from data import choice_dict
-from data import title
+import CoffeeMachine_data as data
+from CoffeeMachine_data import menu
+from CoffeeMachine_data import resources
+from CoffeeMachine_data import choice_dict
+from CoffeeMachine_data import title
 import time
 
 VALID_COINS = ["Dollar","Half dollar","Quarter","Dime","Nickel","Penny"]
